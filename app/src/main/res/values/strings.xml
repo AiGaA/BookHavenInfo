@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Book Haven Info</string>
+    <string name="header">Book Haven</string>
+    <string name="store_info">A family business running over 30 years in Ashbourne area. Used and new books, schoolbooks, stationary, educational toys, art and craft supplies.</string>
+    <string name="phone_number">(+353) 1 835 2621</string>
+    <string name="email">www.bookhaven.ie"</string>
+    <string name="opening_hours">9:00 - 17:00</string>
+    <string name="opening_days">Mon - Fri:</string>
+    <string name="store_address">Units 3/10 , Block 4, Ashbourne Business Park, Ashbourne, Co. Meath</string>
+</resources>
